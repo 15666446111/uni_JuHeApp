@@ -1,0 +1,83 @@
+.mine-box{
+	width: 100%;
+	height: 600rpx;
+	padding-top: 100rpx;
+}
+
+.mine-box-title-box{
+	width: 100%;
+	height: 50rpx;
+	text-align: center;
+}
+
+.mine-box-title{
+	font-size: 40rpx;
+}
+.mine-box-head{
+	width: 90%;
+	height: 150rpx;
+	display: flex;
+	margin: 0 auto;
+	margin-top: 30rpx;
+}
+.mine-box-avatar-box{
+	margin-top: 20rpx;
+}
+.mine-box-name-box{
+	flex: 2;
+}
+.mine-box-name{
+	font-size: 35rpx;
+	line-height: 170rpx;
+	margin-left: 20rpx;
+}
+
+
+.mine-box-group-box{
+	flex: 1;
+}
+.mine-box-group{
+	font-size: 35rpx;
+	line-height: 170rpx;
+	color: #999;
+}
+
+.mine-box-blance-box{
+	width: 90%;
+	height: 200rpx;
+	margin: 50rpx auto;
+	display: flex;
+	justify-content: space-between;
+}
+
+.mine-box-cashs{
+	width: 47%;
+	height: 150rpx;
+	text-align: center;
+	border-radius: 10rpx;
+	background: linear-gradient(to right, #aeccfe , #a779fd);
+}
+
+.mine-box-returns{
+	width: 47%;
+	height: 150rpx;
+	text-align: center;
+	border-radius: 10rpx;
+	background: linear-gradient(to right, #feb97e , #ff6c7f);
+}
+.mine-box-blance-title{
+	width: 100%;
+	height: 50rpx;
+	display: block;
+	font-size: 35rpx;
+	margin-top: 20rpx;
+	color: white;
+	font-weight: 500;
+}
+.mine-box-blance-number{
+	display: block;
+	width: 100%;
+	margin-top: 10rpx;
+	font-size: 35rpx;
+	color:white;
+}
